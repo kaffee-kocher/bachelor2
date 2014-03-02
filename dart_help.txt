@@ -1,0 +1,14 @@
+Usage: dart [<vm-flags>] <dart-script-file> [<dart-options>]
+
+Executes the Dart script passed as <dart-script-file>.
+
+Common options:
+--checked or -c
+  Insert runtime type checks and enable assertions (checked mode).
+--help or -h
+  Display this message (add -v or --verbose for information about
+  all VM options).
+--package-root=<path> or -p<path>
+  Where to find packages, that is, "package:..." imports.
+--version
+  Print the VM version.
