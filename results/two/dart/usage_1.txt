@@ -1,0 +1,52 @@
+MemTotal:        4048836 kB
+MemFree:         3781192 kB
+Buffers:           22860 kB
+Cached:           158144 kB
+SwapCached:            0 kB
+Active:            79380 kB
+Inactive:         117024 kB
+Active(anon):      15640 kB
+Inactive(anon):      444 kB
+Active(file):      63740 kB
+Inactive(file):   116580 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       4192252 kB
+SwapFree:        4192252 kB
+Dirty:               216 kB
+Writeback:             0 kB
+AnonPages:         15552 kB
+Mapped:             7980 kB
+Shmem:               628 kB
+Slab:              26380 kB
+SReclaimable:      14676 kB
+SUnreclaim:        11704 kB
+KernelStack:         848 kB
+PageTables:         2480 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6216668 kB
+Committed_AS:      82156 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      286172 kB
+VmallocChunk:   34359448572 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:       49088 kB
+DirectMap2M:     2048000 kB
+DirectMap1G:     2097152 kB
+Linux 3.11.0-19-generic (ubuntuserver) 	04/16/2014 	_x86_64_	(3 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.03    0.00    0.01    0.12    0.00   99.84
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+scd0              0.00         0.00         0.00         44          0
+sda               0.36        11.63         0.58     141731       7032
+
